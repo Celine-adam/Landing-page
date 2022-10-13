@@ -19,6 +19,7 @@ h1,h2,h3{
 body{
   font-family: 'Open Sans',sans-serif;
   font-size: 18px;
+  background-color: var(--VeryPaleCyan);
 }
 img{
   height: 100%;
@@ -50,11 +51,12 @@ img{
     padding: 100px 0;
     display: block;
     background-image: url(./img/Vecteezy_Watercolor-Background_ZM0321_generated.jpg);
-    background-position: center top;
+    background-position: center ;
     background-repeat: no-repeat;
     background-size: cover;
     background-color: var(--VeryPaleCyan);
   }
+  
 
   .container-1 {
     min-height: calc(100vh - 200px);
